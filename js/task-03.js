@@ -23,17 +23,4 @@ const AllGallery = images.map(
 ulEl.classList.add('gallery');
 
 
-// const galleryRef = document.querySelector('.gallery');
-// const fullGallery = images
-//   .map(
-//     image =>
-//       `<li><img class=${'gallery--item'} src=${image.url} alt=${
-//         image.alt
-//       }></li>`,
-//   )
-//   .join('');
-
-// galleryRef.insertAdjacentHTML('beforeend', fullGallery);
-// galleryRef.classList.add('gallery');
-
 
